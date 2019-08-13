@@ -12,7 +12,7 @@ Homework # 5
 
 ## IMPORTANT LINKS
 
-- [Link to the game site](https://vienhong20.github.io/TriviaGame)
+https://vienhong20.github.io/Trivia_Game/
 
 ---
 
